@@ -6,12 +6,12 @@
     "X-Author": "eslobod113",
     "Access-Control-Allow-Origin": "*"
     },
- "/login/": {
+ "/login/*": {
     "Content-Type": "text/plain; charset=UTF-8"
     "X-Author": "eslobod113",
     "Access-Control-Allow-Origin": "*"
     },
- "/sample/": {
+ "/sample/*": {
     "Content-Type": "text/plain; charset=UTF-8"
     "X-Author": "eslobod113",
     "Access-Control-Allow-Origin": "*"
